@@ -1,0 +1,5 @@
+Low: Roll=0.0, Pitch=0.0, Yaw=0.0
+Mid: Roll=0.0, Pitch=0.0, Yaw=0.0
+Top: Roll=0.0, Pitch=0.0, Yaw=0.0
+Pressure: raw=1000, voltage=800 mV, raw_x1000=1000000, voltage_uV=800000
+----

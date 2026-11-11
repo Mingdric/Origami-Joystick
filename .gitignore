@@ -1,0 +1,38 @@
+# Python environments and caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Local build products
+build/
+dist/
+CMakeFiles/
+CMakeCache.txt
+compile_commands.json
+*.o
+*.obj
+*.exe
+*.so
+*.dll
+
+# Local experiment output and device configuration
+logs/
+*.log
+force_log_*.csv
+force_log_*_force.png
+force_log_*_motion.png
+teleoperation/home_pose.txt
+.env
+.env.*
+!.env.example
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+/Origami-Joystick.zip
